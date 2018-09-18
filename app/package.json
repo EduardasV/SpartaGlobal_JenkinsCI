@@ -26,5 +26,9 @@
     "chai-jquery": "^2.0.0",
     "jenkins-mocha": "^3.0.4",
     "mocha-junit-reporter": "^1.12.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:EduardasV/SpartaGlobal_JenkinsCI.git"
   }
 }
