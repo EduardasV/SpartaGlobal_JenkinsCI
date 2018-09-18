@@ -1,4 +1,8 @@
 {
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:EduardasV/SpartaGlobal_JenkinsCI.git"
+  },
   "name": "solution-code",
   "version": "1.0.0",
   "description": "",
@@ -26,5 +30,5 @@
     "chai-jquery": "^2.0.0",
     "jenkins-mocha": "^3.0.4",
     "mocha-junit-reporter": "^1.12.1"
-  }
+  },
 }
