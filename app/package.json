@@ -9,7 +9,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
-    "test": "./node_modules/mocha/bin/mocha"
+    "test": "./test/test-server.js"
   },
   "author": "",
   "license": "ISC",
